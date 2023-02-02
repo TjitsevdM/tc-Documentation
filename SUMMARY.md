@@ -20,6 +20,7 @@
 ## Product Guides
 
 * [👟 Explainer: Community Activity Level](product-guides/explainer-community-activity-level.md)
-* [Explainer: Engaged Members](product-guides/explainer-engaged-members.md)
-* [Explainer: Disengaged Members](product-guides/explainer-disengaged-members.md)
-* [Explainer: Fragmentation](product-guides/explainer-fragmentation.md)
+* [👥 Explainer: Member types](product-guides/explainer-engaged-members/README.md)
+  * [Onboarding new members](product-guides/explainer-engaged-members/onboarding-new-members.md)
+  * [Member Churn](product-guides/explainer-engaged-members/explainer-disengaged-members.md)
+* [🍕 Explainer: Fragmentation](product-guides/explainer-fragmentation.md)
